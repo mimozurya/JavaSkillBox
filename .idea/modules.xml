@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaSkillBox.iml" filepath="$PROJECT_DIR$/JavaSkillBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base.mod1/base.mod1.iml" filepath="$PROJECT_DIR$/base.mod1/base.mod1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base.mod2/base.mod2.iml" filepath="$PROJECT_DIR$/base.mod2/base.mod2.iml" />
+    </modules>
+  </component>
+</project>
