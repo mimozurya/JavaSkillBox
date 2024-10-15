@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  user:
+    container_name: user
+    build:
+      dockerfile: Dockerfile
+    hostname: user
+    ports:
+      - "8080:8080"
+    networks:
+      - user-network
+
+networks:
+  user-network:
+    driver: bridge
