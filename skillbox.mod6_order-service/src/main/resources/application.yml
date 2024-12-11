@@ -1,0 +1,6 @@
+spring:
+  application:
+    name=skillbox.mod6_order-service
+  kafka:
+    template:
+      default-topic: order-topic

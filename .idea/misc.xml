@@ -10,7 +10,18 @@
         <option value="$PROJECT_DIR$/skillbox.mod3/pom.xml" />
         <option value="$PROJECT_DIR$/skillbox.mod4/pom.xml" />
         <option value="$PROJECT_DIR$/skillbox.mod5/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox.mod6_order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox.mod6_order-status-service/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox.mod7/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox.mod8_news/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox.mod8_task_traker/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/skillbox.mod8_news/pom.xml" />
+        <option value="$PROJECT_DIR$/skillbox.mod8_task_traker/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
